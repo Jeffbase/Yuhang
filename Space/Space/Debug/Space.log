@@ -1,0 +1,5 @@
+﻿  Oxygen_Depot.cpp
+c:\users\h3678\documents\学习\ec327\pa3\space\space\oxygen_depot.cpp(7): error C2512: “Game_Object”: 没有合适的默认构造函数可用
+  c:\users\h3678\documents\学习\ec327\pa3\space\space\game_object.h(6): note: 参见“Game_Object”的声明
+c:\users\h3678\documents\学习\ec327\pa3\space\space\oxygen_depot.cpp(13): error C2512: “Game_Object”: 没有合适的默认构造函数可用
+  c:\users\h3678\documents\学习\ec327\pa3\space\space\game_object.h(6): note: 参见“Game_Object”的声明
